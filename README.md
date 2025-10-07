@@ -52,7 +52,7 @@ Authify/
 │   │   ├── entities/         # JPA entities
 │   │   └── AuthifyApplication.java
 │   └── resources/
-│       ├── application.yml   # Environment configs
+│       ├── application.properties   # Environment configs
 │       └── templates/        # Thymeleaf email templates
 │
 └── frontend/
